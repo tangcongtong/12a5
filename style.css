@@ -1,0 +1,15 @@
+#Hello {
+    text-align: center;
+    font-size: 60px;
+}
+
+.btnLink {
+  text-align: center;
+}
+.btnLink-item{
+    font-size: 30px;
+    border-radius: 8px;
+    height: 50px;
+    width: 150px;
+    margin: auto;
+}
